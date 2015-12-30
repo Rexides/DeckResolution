@@ -1,0 +1,28 @@
+{
+  "cards":[
+    {
+      "amount":10,
+      "success":1
+    },
+    {
+      "amount":5,
+      "success":2
+    },
+    {
+      "amount":1,
+      "success":3
+    },
+    {
+      "amount":10,
+      "failure":1
+    },
+    {
+      "amount":5,
+      "failure":2
+    },
+    {
+      "amount":1,
+      "failure":3
+    }
+  ]
+}
